@@ -1,10 +1,10 @@
-# 🔐 BioPay System
+# 🔐 GenePay System
 
 **Biometric Payment System** - Secure face-based payment solution with microservices architecture.
 
 ## 📋 Project Overview
 
-BioPay is a secure payment system that uses facial recognition technology to process payments. The system consists of microservices backend, mobile applications for users and merchants, and an admin panel for management.
+GenePay is a secure payment system that uses facial recognition technology to process payments. The system consists of microservices backend, mobile applications for users and merchants, and an admin panel for management.
 
 ### 🏗️ Architecture
 
@@ -214,7 +214,7 @@ docs(readme): update installation instructions
 
 ## 📄 License
 
-Proprietary - BioPay System © 2025
+Proprietary - GenePay System © 2025
 
 ## 📞 Contact
 
@@ -222,4 +222,4 @@ For questions or support, please contact the development team.
 
 ---
 
-**Built with ❤️ by BioPay Team**
+**Built with ❤️ by GenePay Team**
