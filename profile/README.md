@@ -34,23 +34,6 @@ GenePay is a secure payment system that uses facial recognition technology to pr
          └─────────────────┘            └─────────────────┘
 ```
 
-## 📁 Project Structure
-
-```
-bio_pay_system/
-├── backend/
-│   ├── biometric-service/    # Face recognition service (Python/FastAPI)
-│   ├── payment-service/       # Payment processing (Java/Spring Boot)
-│   ├── api-gateway/           # API Gateway (Nginx)
-│   └── docker-compose.yml     # Local development setup
-├── bio_pay_client/            # User mobile app (Flutter)
-├── bio_pay_merchant/          # Merchant mobile app (Flutter)
-├── bio_pay_admin/             # Admin web panel (React)
-├── infrastructure/            # Deployment configs (K8s, Terraform)
-├── .github/workflows/         # CI/CD pipelines
-└── docs/                      # Documentation
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
